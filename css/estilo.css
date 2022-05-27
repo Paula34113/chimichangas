@@ -1,0 +1,40 @@
+h1 {background-position: center;
+  font-size: 30px;
+color: blue}
+body {background-color: grey;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+background-size: auto;
+background-position: center;
+background-size:cover;
+  background-image: url("https://e7.pngegg.com/pngimages/176/428/png-clipart-chimichanga-deadpool-fan-art-chimichanga-chibi-fictional-character.png") ;
+text-align: center;
+}
+.subtitulo{font-style: italic;
+font-stretch: condensed;
+color: blue;
+font-size: 27px;
+background-color: #AED6F1;
+
+}
+.parrafo{font-style: normal;
+  font-size: 23px;
+  color: #2ECC71;
+}
+section{border: 10px solid color: black;
+  margin 25px;
+  width: 40%;
+  float: left;
+  margin: 1%;
+  padding: 20px;
+  background-color: white;
+  background-image:url(./imagenes_lucia/chimichanga.jpg);
+
+
+}
+.footer{background-color: white;
+  padding: 1em 0;
+  text-align: center;
+  position: absolute;
+  bottom: 0;
+}
